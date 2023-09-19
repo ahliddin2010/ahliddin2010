@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ahliddin</h1>
 <h3 align="center">A passionate frontend developer from Uzbekistan</h3>
 
-- 🔭 I’m currently working on **ahliddin2010**
+- 🔭 I’m currently working on Personal site
 
 - 🌱 I’m currently learning **Html,Css,Bootstrap,Js**
-
-- 👯 I’m looking to collaborate on **ahliddin**
 
 - 📫 How to reach me **soatmurotovahliddin@gmail.com**
 
